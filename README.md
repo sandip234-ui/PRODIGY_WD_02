@@ -2,6 +2,11 @@
 
 A modern, interactive stopwatch web application built with React and Tailwind CSS. This project was developed as part of an internship proposal to demonstrate proficiency in front-end development, UI/UX design, and state management in React.
 
+
+---
+# StopWatch 
+
+![Tic Tac Toe Screenshot](/public/StopWatch.png)
 ---
 
 ## 🚀 Features
