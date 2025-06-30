@@ -34,7 +34,7 @@ A modern, interactive stopwatch web application built with React and Tailwind CS
 
 ```bash
 # Clone the repository
-$ git clone <your-repo-url>
+$ git clone https://github.com/sandip234-ui/PRODIGY_WD_02
 $ cd project-2
 
 # Install dependencies
